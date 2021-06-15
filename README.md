@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end...
 - 🌱 I’m currently learning, react, angular ...
 - 💞️ I’m looking to collaborate on launch a new social media(https://fandomers.com/)
-- 💞️ I’m working on two oder projects (https://www.vetz.xyz/) and (https://vemdaroca.site/)
+- 💞️ I’m working on two other projects (https://www.vetz.xyz/) and (https://vemdaroca.site/)
 - 📫 How to reach me alexfandomers@gmail.com 
 
 <!---
